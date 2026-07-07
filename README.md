@@ -4,7 +4,7 @@ I'm **Ewan** — a Computer Science & Math major at the University of Illinois U
  
 ## 🔬 What I'm Working On
  
-- **Undergraduate Researcher** @ the [IVA Lab](https://ivalab.github.io/), Georgia Tech — working on dynamic environment navigation through a planner called **DynamicGap**. 📌 See it pinned below!
+- **Undergraduate Researcher** @ the [IVA Lab]((https://ivalab.gatech.edu)), Georgia Tech — working on dynamic environment navigation through a planner called **DynamicGap**. 📌 See it pinned below!
 - **Lead** of an autonomous racing team @ UIUC — we built our perception, planning, and control pipeline **from scratch**, and we're preparing to compete at the **2026 IEEE 104th Vehicular Technology Conference** in Boston 🏎️
 
 ## 📚 Currently Reading
