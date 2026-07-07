@@ -1,6 +1,6 @@
 ## What up Team 🫨
 
-I'm **Ewan**, a Computer Science and Math major at the University of Illinois. <img src="./blockI.svg" width="22" height="22" alt="UIUC Block I">
+I'm **Ewan**, a Computer Science and Math major at the University of Illinois. <img src="./blockI.svg" width="15" height="15" alt="UIUC Block I">
 
 Here are some ideas to get you started:
 
