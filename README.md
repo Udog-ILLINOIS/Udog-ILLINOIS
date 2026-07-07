@@ -10,7 +10,9 @@ I'm **Ewan** — a Computer Science & Math major at the University of Illinois U
 ## 🛠️ Tools I Use
 
 **Languages:** Python · C++ · C · Java · JavaScript
+
 **Robotics:** ROS1/ROS2 · RViz · SLAM · MPPI
+
 **Systems:** Linux · Git · Docker · GDB · Valgrind
 
 ## 📚 Currently Reading
