@@ -1,4 +1,4 @@
-# About me
+# About me...
  
 I'm **Ewan** — a Computer Science & Math major at the University of Illinois Urbana-Champaign <img src="./blockI.svg" width="14" height="14" alt="UIUC Block I">
  
